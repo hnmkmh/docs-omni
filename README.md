@@ -17,9 +17,9 @@
   
 ## Haravan API
 
-* [Product]()
-* [Order]()
-* [Customer]()
+* [Product](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Product.pdf)
+* [Order](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Order.pdf)
+* [Customer](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Customer.pdf)
 
 ## Câu hỏi thường gặp (FAQ)
 
