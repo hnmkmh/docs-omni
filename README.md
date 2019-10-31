@@ -22,9 +22,10 @@
 * [Customer](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Customer.pdf)
 
 ## Câu hỏi thường gặp (FAQ)
-
 * [Câu hỏi thường gặp](https://support.haravan.com/support/solutions)
 
+## Thắc mắc hoặc Góp ý - Cải thiện cho API & App Haravan
+* [Gửi phản hồi về Trung tâm trợ giúp của chúng tôi](https://docs.google.com/forms/d/16fCj9zjvxW1n7ESiIYdl39sYUwraYjxIr_0fH3aJzZM/edit?ts=5db803b5)
 
 
 
