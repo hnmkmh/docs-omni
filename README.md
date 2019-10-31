@@ -10,7 +10,7 @@
 
 * [File hướng dẫn](https://github.com/Haravan/docs-omni/tree/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf)
 * Video Hướng dẫn:
-  [Youtube](https://github.com/Haravan/docs-omni/tree/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/video),
+  [Youtube](https://youtu.be/uqrMhdJpMyM),
 * Code mẫu: 
   [NodeJs](https://github.com/Haravan/Omni_OAuth2_nodejs),
   [PHP](https://github.com/Haravan/Omni_OAuth2_php)
