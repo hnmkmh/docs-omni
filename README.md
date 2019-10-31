@@ -25,7 +25,7 @@
 * [Câu hỏi thường gặp](https://support.haravan.com/support/solutions)
 
 ## Thắc mắc hoặc Góp ý - Cải thiện cho API & App Haravan
-* [Gửi phản hồi về Trung tâm trợ giúp của chúng tôi](https://docs.google.com/forms/d/16fCj9zjvxW1n7ESiIYdl39sYUwraYjxIr_0fH3aJzZM/edit?ts=5db803b5)
+* [Gửi phản hồi về Trung tâm trợ giúp của chúng tôi](http://bit.ly/2JwHbC5)
 
 
 
