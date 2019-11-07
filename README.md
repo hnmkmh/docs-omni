@@ -13,7 +13,8 @@
   [Youtube](https://youtu.be/uqrMhdJpMyM),
 * Code mẫu: 
   [NodeJs](https://github.com/Haravan/Omni_OAuth2_nodejs),
-  [PHP](https://github.com/Haravan/Omni_OAuth2_php)
+  [PHP](https://github.com/Haravan/Omni_OAuth2_php),
+  [C#](https://github.com/Haravan/Omni_OAuth2_csharp)
   
 ## Haravan API
 
