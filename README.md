@@ -4,8 +4,8 @@
 2. [Cách kết nối Webhook](#cách-kết-nối-webhook)
 3. [Cách chuyển app cũ](#cách-chuyển-app-cũ)
 4. [Haravan API](#haravan-api)
-5. [Câu hỏi thường gặp](#câu-hỏi-thường-gặp)
-6. [Thắc mắc hoặc Góp ý - Cải thiện cho API & App Haravan](#thắc-mắc-hoặc-góp-ý---cải-thiện-cho-api-&-app-haravan)
+5. [Câu hỏi thường gặp](#câu-hỏi-thường-gặp-faq)
+6. [Thắc mắc hoặc Góp ý - Cải thiện cho API & App Haravan](#thắc-mắc-hoặc-góp-ý---cải-thiện-cho-api--app-haravan)
 --------------------------------------------
 
 ## Cách kết nối Haravan API
