@@ -16,7 +16,7 @@
 * Code mẫu: 
   [NodeJs](https://github.com/Haravan/Omni_OAuth2_nodejs),
   [PHP](https://github.com/Haravan/Omni_OAuth2_php),
-  [C#](https://github.com/Haravan/Omni_OAuth2_csharp)
+  [C#](https://github.com/Haravan/apps_dotnet)
 
 * [Hướng dẫn sử dụng Scope](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_scope.pdf)
 * Hướng dẩn tạo Private App (Ứng dụng riêng/Private Token): [File hướng dẫn](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/private_app.pdf)
