@@ -38,6 +38,7 @@
 * [Product](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Product.pdf)
 * [Order](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Order.pdf)
 * [Customer](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Customer.pdf)
+* [Inventories](https://github.com/Haravan/docs-omni/blob/master/Haravan%20API/Inventories.pdf)
 * [ScriptTag](https://docs.haravan.com/blogs/ui-integrations/1000017817-scripttag)
 * [Webhooks Introduction](https://docs.haravan.com/blogs/webhooks/1000017841-introduction)
 * [Webhook API](https://docs.haravan.com/blogs/api-reference/1000017858-webhook)
