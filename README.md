@@ -10,7 +10,7 @@
 
 ## Cách kết nối Haravan API
 
-* [File hướng dẫn](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_tao_app_ket_noi_api.pdf)
+* [File hướng dẫn](https://docs.haravan.com/blogs/omni/huong-dan-tao-app-ket-noi-api) [(pdf)](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_tao_app_ket_noi_api.pdf)
 * Video Hướng dẫn:
   [Youtube](https://youtu.be/gzJ0_qbrvYM),
 * Code mẫu: 
@@ -18,20 +18,20 @@
   [PHP](https://github.com/Haravan/Omni_OAuth2_php),
   [C#](https://github.com/Haravan/apps_dotnet)
 
-* [Hướng dẫn sử dụng Scope](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_scope.pdf)
-* Hướng dẩn tạo Private App (Ứng dụng riêng/Private Token): [File hướng dẫn](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/private_app.pdf)
+* [Hướng dẫn sử dụng Scope](https://docs.haravan.com/blogs/omni/apis-va-scope) [(pdf)](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_scope.pdf)
+* Hướng dẩn tạo Private App (Ứng dụng riêng/Private Token): [File hướng dẫn](https://docs.haravan.com/blogs/omni/create-a-private-app) [(pdf)](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/private_app.pdf)
 
 ## Cách kết nối Webhook
 
-* [File hướng dẫn](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/Webhook.pdf)  
+* [File hướng dẫn](https://docs.haravan.com/blogs/omni/ket-noi-webhooks) [(pdf)](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/Webhook.pdf)  
 * Video Hướng dẫn:
   [Youtube](https://youtu.be/wicCqR3Rrjo),
 
 ## Cách chuyển app cũ
 
-* [Hướng dẩn chuyển app](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_chuyen_app.pdf)
+* [Hướng dẩn chuyển app](https://docs.haravan.com/blogs/omni/huong-dan-chuyen-app-sang-omnipower) [(pdf)](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/huong_dan_chuyen_app.pdf)
 
-* [Api Exchange Token](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/Api_exchange_token.pdf)
+* [Api Exchange Token](https://docs.haravan.com/blogs/omni/api-exchange-token) [(pdf)](https://github.com/Haravan/docs-omni/blob/master/C%C3%A1ch%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API/pdf/Api_exchange_token.pdf)
 
 ## Haravan API
 
