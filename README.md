@@ -67,11 +67,8 @@
 * [User](https://docs.haravan.com/blogs/api-reference/1000017999-user)
 * [Refund](https://docs.haravan.com/blogs/api-reference/1000017998-refund)
 
-## Câu hỏi thường gặp (FAQ)
-* [Câu hỏi thường gặp](https://support.haravan.com/support/solutions)
-
-## Thắc mắc hoặc Góp ý - Cải thiện cho API & App Haravan
-* [Gửi phản hồi về Trung tâm trợ giúp của chúng tôi](http://bit.ly/2JwHbC5)
+## Thắc mắc hoặc Góp ý cho API Haravan
+* Gửi phản hồi về Trung tâm trợ giúp của chúng tôi qua email : support@haravan.com
 
 
 
